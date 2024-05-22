@@ -9,8 +9,8 @@ Golang is a statically typed, compiled programming language. This course provide
 
 ## Scenarios
 
-|   Index | Name                                                  | Difficulty   | URL                                                                        |
-|---------|-------------------------------------------------------|--------------|----------------------------------------------------------------------------|
+|   Index | Name                                                 | Difficulty   | URL                                                                        |
+|---------|------------------------------------------------------|--------------|----------------------------------------------------------------------------|
 |      01 | 📖 Your First Go Lab                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/92714'>Start Lab</a>        |
 |      02 | 📖 Beginner's Guide to Go Programming                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/149062'>Start Lab</a>       |
 |      03 | 📖 GOPATH and Module                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/149063'>Start Lab</a>       |
