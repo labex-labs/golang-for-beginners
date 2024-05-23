@@ -9,7 +9,7 @@ Golang is a statically typed, compiled programming language. This course provide
 
 ## Scenarios
 
-|   Index | Name                                                 | Difficulty   | URL                                                                        |
+|   Index | Name                                                 | Difficulty   | Practice                                                                   |
 |---------|------------------------------------------------------|--------------|----------------------------------------------------------------------------|
 |      01 | 📖 Your First Go Lab                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/92714'>Start Lab</a>        |
 |      02 | 📖 Beginner's Guide to Go Programming                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/149062'>Start Lab</a>       |
@@ -36,4 +36,9 @@ Golang is a statically typed, compiled programming language. This course provide
 |      23 | 📖 Defining and Using Structures in C                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/149097'>Start Lab</a>       |
 |      24 | 📖 Modular Functions in Programming                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/149098'>Start Lab</a>       |
 |      25 | 📖 Mastering Anonymous Functions in Go                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/149099'>Start Lab</a>       |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Go Free Tutorials](https://github.com/labex-labs/go-free-tutorials)
 
