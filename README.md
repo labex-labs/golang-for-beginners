@@ -1,6 +1,6 @@
 # Quick Start with Go
 
-![Quick Start with Go](https://cover-creator.labex.io/quick-start-with-go.png)
+![Quick Start with Go](https://cover-creator.appbot.io/quick-start-with-go.png)
 
 Golang is a statically typed, compiled programming language. This course provides you with a series of labs that will help you master the art of Go.
 
