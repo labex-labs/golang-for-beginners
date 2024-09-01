@@ -28,7 +28,7 @@ Golang is a statically typed, compiled programming language. This course provide
 |      15 | 📖 Goto Statement Usage                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/149074'>Start Lab</a>       |
 |      16 | 📖 Array Operations in Software Development | ★☆☆          | <a target='_blank' href='https://labex.io/labs/149075'>Start Lab</a>       |
 |      17 | 📖 Multidimensional Arrays in Go            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/149076'>Start Lab</a>       |
-|      18 | 🎯 Mastering Array Traversal Concepts       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/149061'>Start Challenge</a> |
+|      18 | 🎯 Array Traversal Concepts                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/149061'>Start Challenge</a> |
 |      19 | 📖 Flexible Go Slice Data Structures        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/149077'>Start Lab</a>       |
 |      20 | 📖 Go Dictionary Fundamentals               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/149080'>Start Lab</a>       |
 |      21 | 📖 Sorting and Manipulating Go Dictionaries | ★☆☆          | <a target='_blank' href='https://labex.io/labs/149095'>Start Lab</a>       |
