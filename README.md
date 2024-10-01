@@ -25,8 +25,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                        | Difficulty   | Practice                                                                                                              |
-|---------|---------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                       | Difficulty   | Practice                                                                                                              |
+|---------|--------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------|
 |      01 | 📖 Your First Go Lab                        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/go-your-first-go-lab-92714'>Start Lab</a>                         |
 |      02 | 📖 Beginner's Guide to Go Programming       | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/go-beginner-s-guide-to-go-programming-149062'>Start Lab</a>       |
 |      03 | 📖 GOPATH and Module                        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/go-gopath-and-module-149063'>Start Lab</a>                        |
