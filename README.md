@@ -33,7 +33,7 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |      04 | 📖 Creating and Importing Go Packages       | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/go-creating-and-importing-go-packages-149064'>Start Lab</a>       |
 |      05 | 📖 Introduction to Go Variables             | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/go-introduction-to-go-variables-149065'>Start Lab</a>             |
 |      06 | 📖 Data Processing with Operators           | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/go-data-processing-with-operators-149066'>Start Lab</a>           |
-|      07 | 🎯 Fahrenheit and Celsius Conversion        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/go-fahrenheit-and-celsius-conversion-149060'>Start Challenge</a>  |
+|      07 | 🎯 Fahrenheit and Celsius Conversion        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/go-fahrenheit-and-celsius-conversion-149060'>Start Challenge</a>       |
 |      08 | 📖 Numerical Types in Go Programming        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/go-numerical-types-in-go-programming-149067'>Start Lab</a>        |
 |      09 | 📖 Character Types in Go                    | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/go-character-types-in-go-149068'>Start Lab</a>                    |
 |      10 | 📖 Go String Fundamentals                   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/go-go-string-fundamentals-149069'>Start Lab</a>                   |
@@ -44,7 +44,7 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |      15 | 📖 Goto Statement Usage                     | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/go-goto-statement-usage-149074'>Start Lab</a>                     |
 |      16 | 📖 Array Operations in Software Development | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/go-array-operations-in-software-development-149075'>Start Lab</a> |
 |      17 | 📖 Multidimensional Arrays in Go            | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/go-multidimensional-arrays-in-go-149076'>Start Lab</a>            |
-|      18 | 🎯 Array Traversal Concepts                 | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/go-array-traversal-concepts-149061'>Start Challenge</a>           |
+|      18 | 🎯 Array Traversal Concepts                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/go-array-traversal-concepts-149061'>Start Challenge</a>                |
 |      19 | 📖 Flexible Go Slice Data Structures        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/go-flexible-go-slice-data-structures-149077'>Start Lab</a>        |
 |      20 | 📖 Go Dictionary Fundamentals               | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/go-go-dictionary-fundamentals-149080'>Start Lab</a>               |
 |      21 | 📖 Sorting and Manipulating Go Dictionaries | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/go-sorting-and-manipulating-go-dictionaries-149095'>Start Lab</a> |
@@ -55,7 +55,7 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## More
 
-- 🔗 [Go Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Go Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Go Free Tutorials](https://github.com/labex-labs/go-free-tutorials)
+- 🔗 [Golang Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Golang Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Golang Free Tutorials](https://github.com/labex-labs/go-free-tutorials)
 
