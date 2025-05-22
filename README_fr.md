@@ -1,0 +1,84 @@
+# Démarrage rapide avec Golang
+
+## Langues
+
+🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
+
+[![Démarrage rapide avec Golang](https://cover-creator.labex.io/quick-start-with-go.png?lang=fr)](https://labex.io/fr/courses/quick-start-with-go)
+
+[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/fr/courses/quick-start-with-go)
+
+Ce cours vous guide dans la maîtrise de la programmation Go grâce à des laboratoires pratiques et des défis. Vous apprendrez les concepts clés tels que l'écriture de votre premier programme, la gestion des packages, l'utilisation des types de données, du flux de contrôle et des fonctionnalités spécifiques à Go comme les slices, les maps, les channels et les fonctions anonymes, en établissant ainsi une solide base pour aborder les tâches de programmation du monde réel.
+
+![Golang](https://img.shields.io/badge/Golang-whitesmoke?style=for-the-badge&logo=golang)
+
+
+## Environnement
+
+LabEx est une plateforme d'apprentissage interactive et pratique dédiée au codage et à la technologie. Elle combine des laboratoires, une assistance IA et des machines virtuelles pour offrir une expérience d'apprentissage pratique sans vidéo.
+
+![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
+
+- Une approche stricte "Apprendre en Faisant" avec des laboratoires pratiques exclusifs et sans vidéos.
+- Des environnements en ligne interactifs dans le navigateur, avec des vérifications automatisées étape par étape.
+- Une organisation structurée du contenu avec le système basé sur l'Arbre de Compétences.
+- Une ressource d'apprentissage croissante de 30 Arbres de Compétences et plus de 6 000 Laboratoires.
+- L'assistant d'apprentissage IA Labby, construit sur ChatGPT, offrant une expérience d'apprentissage conversationnelle.
+
+En savoir plus sur [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+
+## Exercices
+
+|   Index | Nom                                                      | Difficulté   | Pratique                                                                                                                        |
+|---------|----------------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 Guide de démarrage pour la programmation en Go        | ★★☆          | <a target='_blank' href='https://labex.io/fr/tutorials/go-beginner-s-guide-to-go-programming-149062'>Commencer le Lab</a>       |
+|      02 | 🎯 Créer un message de bienvenue personnalisé en Go      | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/go-craft-a-personalized-go-greeting-435633'>Commencer le Défi</a>        |
+|      03 | 📖 GOPATH et Modules                                     | ★★☆          | <a target='_blank' href='https://labex.io/fr/tutorials/go-gopath-and-module-149063'>Commencer le Lab</a>                        |
+|      04 | 🎯 Construire un projet Go modulaire                     | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/go-build-a-modular-go-project-435640'>Commencer le Défi</a>              |
+|      05 | 📖 Création et importation de packages Go                | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/go-creating-and-importing-go-packages-149064'>Commencer le Lab</a>       |
+|      06 | 🎯 Créer un package utilitaire mathématique              | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/go-build-a-math-utility-package-435676'>Commencer le Défi</a>            |
+|      07 | 📖 Introduction aux variables en Go                      | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/go-introduction-to-go-variables-149065'>Commencer le Lab</a>             |
+|      08 | 🎯 Créer des variables pour l'inventaire des livres      | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/go-craft-book-inventory-variables-435684'>Commencer le Défi</a>          |
+|      09 | 📖 Traitement de données avec des opérateurs en Golan... | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/go-data-processing-with-operators-in-golang-149066'>Commencer le Lab</a> |
+|      10 | 🎯 Calculer le prix réduit d'un produit                  | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/calculate-product-discount-price-435694'>Commencer le Défi</a>           |
+|      11 | 📖 Types numériques en Golang                            | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/go-numerical-types-in-golang-149067'>Commencer le Lab</a>                |
+|      12 | 🎯 Convertir et calculer des types numériques            | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/convert-and-calculate-numeric-types-435824'>Commencer le Défi</a>        |
+|      13 | 📖 Types de caractères en Golang                         | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/go-character-types-in-golang-149068'>Commencer le Lab</a>                |
+|      14 | 🎯 Décoder les emojis Unicode                            | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/go-decode-unicode-emojis-435852'>Commencer le Défi</a>                   |
+|      15 | 📖 Fondamentaux des chaînes de caractères en Go          | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/go-go-string-fundamentals-149069'>Commencer le Lab</a>                   |
+|      16 | 🎯 Traiter les chaînes d'inscription d'utilisateurs      | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/go-process-user-registration-strings-436083'>Commencer le Défi</a>       |
+|      17 | 📖 Principes fondamentaux des constantes en Go           | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/go-go-constants-fundamentals-149070'>Commencer le Lab</a>                |
+|      18 | 🎯 Définir des constantes de taille de serveur           | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/go-define-server-size-constants-436400'>Commencer le Défi</a>            |
+|      19 | 📖 Instruction de branchement if en Golang               | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/go-if-branch-statement-in-golang-149071'>Commencer le Lab</a>            |
+|      20 | 🎯 Trier les tâches avec la logique conditionnelle       | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/go-sort-tasks-with-conditional-logic-436418'>Commencer le Défi</a>       |
+|      21 | 📖 Instructions conditionnelles Switch-Case en Golang    | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/go-switch-case-branch-statements-in-golang-149072'>Commencer le Lab</a>  |
+|      22 | 🎯 Implémenter un switch pour les conseils météorolog... | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/go-implement-weather-advice-switch-436449'>Commencer le Défi</a>         |
+|      23 | 📖 Boucles for en Golang                                 | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/go-for-loops-in-golang-149073'>Commencer le Lab</a>                      |
+|      24 | 🎯 Inversion de chaîne de caractères avec une boucle ... | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/go-reverse-string-with-go-loop-436520'>Commencer le Défi</a>             |
+|      25 | 📖 Utilisation de l'instruction goto                     | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/go-goto-statement-usage-149074'>Commencer le Lab</a>                     |
+|      26 | 🎯 Résoudre la complexité des boucles imbriquées avec... | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/go-solve-nested-loop-complexity-with-goto-436529'>Commencer le Défi</a>  |
+|      27 | 📖 Opérations sur les tableaux en Golang                 | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/go-array-operations-in-golang-149075'>Commencer le Lab</a>               |
+|      28 | 🎯 Initialiser le tableau des noms des employés          | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/go-initialize-employee-names-array-436643'>Commencer le Défi</a>         |
+|      29 | 📖 Tableaux multidimensionnels en Golang                 | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/go-multidimensional-arrays-in-golang-149076'>Commencer le Lab</a>        |
+|      30 | 🎯 Concevoir un suivi des notes des étudiants            | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/go-design-a-student-grade-tracker-436649'>Commencer le Défi</a>          |
+|      31 | 📖 Structures de données des tranches (slices) en Gol... | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/go-golang-slice-data-structures-149077'>Commencer le Lab</a>             |
+|      32 | 🎯 Défi de filtrage de journaux basé sur des tranches    | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/go-slice-log-filter-challenge-436686'>Commencer le Défi</a>              |
+|      33 | 📖 Fondamentaux des dictionnaires en Go                  | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/go-go-dictionary-fundamentals-149080'>Commencer le Lab</a>               |
+|      34 | 🎯 Gérer les notes des étudiants avec les maps (table... | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/go-manage-student-grades-with-go-maps-436735'>Commencer le Défi</a>      |
+|      35 | 📖 Tri des dictionnaires (maps) en Go                    | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/go-sorting-go-dictionaries-149095'>Commencer le Lab</a>                  |
+|      36 | 🎯 Trier dynamiquement les notes des étudiants           | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/go-sort-student-grades-dynamically-437203'>Commencer le Défi</a>         |
+|      37 | 📖 Primitives de canal en Golang                         | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/go-channel-primitives-in-golang-149096'>Commencer le Lab</a>             |
+|      38 | 🎯 Construire un simple pipeline de données avec des ... | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/go-build-a-simple-channel-data-pipeline-437199'>Commencer le Défi</a>    |
+|      39 | 📖 Les structures en Golang                              | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/go-structures-in-golang-149097'>Commencer le Lab</a>                     |
+|      40 | 🎯 Concevoir une structure Student en Go                 | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/go-design-student-struct-in-go-437202'>Commencer le Défi</a>             |
+|      41 | 📖 Fonctions en Golang                                   | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/go-functions-in-golang-149098'>Commencer le Lab</a>                      |
+|      42 | 🎯 Concevoir une fonction mathématique flexible          | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/go-design-flexible-math-function-437200'>Commencer le Défi</a>           |
+|      43 | 📖 Fonctions anonymes en Golang                          | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/go-anonymous-functions-in-golang-149099'>Commencer le Lab</a>            |
+|      44 | 🎯 Concevoir des transformations mathématiques flexib... | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/go-design-flexible-math-transformations-437201'>Commencer le Défi</a>    |
+
+## Plus
+
+- 🔗 [Golang Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Golang Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Golang Free Tutorials](https://github.com/labex-labs/go-free-tutorials)
+
