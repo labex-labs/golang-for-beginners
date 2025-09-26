@@ -1,12 +1,12 @@
-# Quick Start with Golang
+# Golang for Beginners
 
 ## Languages
 
 🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![Quick Start with Golang](https://cover-creator.labex.io/quick-start-with-go.png)](https://labex.io/courses/quick-start-with-go)
+[![Golang for Beginners](https://cover-creator.labex.io/golang-for-beginners.png)](https://labex.io/courses/golang-for-beginners)
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/quick-start-with-go)
+[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/golang-for-beginners)
 
 This course guides you through mastering Go programming with hands-on labs and challenges. You'll learn key concepts such as writing your first program, managing packages, using data types, control flow, and Go-specific features like slices, maps, channels, and anonymous functions, building a strong foundation to tackle real-world programming tasks.
 
