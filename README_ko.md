@@ -1,14 +1,14 @@
-# Go 언어 퀵 스타트
+# 초보자를 위한 Golang
 
 ## 언어
 
 🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![Go 언어 퀵 스타트](https://cover-creator.labex.io/quick-start-with-go.png?lang=ko)](https://labex.io/ko/courses/quick-start-with-go)
+[![초보자를 위한 Golang](https://cover-creator.labex.io/golang-for-beginners.png?lang=ko)](https://labex.io/ko/courses/golang-for-beginners)
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/ko/courses/quick-start-with-go)
+[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/ko/courses/golang-for-beginners)
 
-본 과정은 실습과 챌린지를 통해 Go 프로그래밍을 마스터하도록 안내합니다. 첫 번째 프로그램 작성, 패키지 관리, 데이터 타입 사용, 제어 흐름, 슬라이스, 맵, 채널, 익명 함수와 같은 Go 고유의 기능 등 핵심 개념을 배우고 실제 프로그래밍 과제를 해결할 수 있는 탄탄한 기반을 다질 수 있습니다.
+본 과정은 실습 및 과제를 통해 Go 프로그래밍을 마스터할 수 있도록 안내합니다. 첫 프로그램 작성, 패키지 관리, 데이터 타입 사용, 제어 흐름, 그리고 슬라이스 (slices), 맵 (maps), 채널 (channels), 익명 함수와 같은 Go 고유의 기능 등 핵심 개념을 학습하여 실제 프로그래밍 작업을 수행할 수 있는 강력한 기반을 구축하게 됩니다.
 
 ![Golang](https://img.shields.io/badge/Golang-whitesmoke?style=for-the-badge&logo=golang)
 
