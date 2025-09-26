@@ -1,14 +1,14 @@
-# Golang のクイックスタート
+# 初心者向け Golang 入門
 
 ## 言語
 
 🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![Golang のクイックスタート](https://cover-creator.labex.io/quick-start-with-go.png?lang=ja)](https://labex.io/ja/courses/quick-start-with-go)
+[![初心者向け Golang 入門](https://cover-creator.labex.io/golang-for-beginners.png?lang=ja)](https://labex.io/ja/courses/golang-for-beginners)
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/ja/courses/quick-start-with-go)
+[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/ja/courses/golang-for-beginners)
 
-このコースでは、実践的なラボとチャレンジを通じて、Go プログラミングの習得をサポートします。最初のプログラムの作成、パッケージの管理、データ型の使用、制御フロー、およびスライス、マップ、チャネル、無名関数などの Go 固有の機能などの重要な概念を学び、実世界のプログラミングタスクに取り組むための強固な基礎を築きます。
+本コースでは、実践的なラボと課題を通じて Go プログラミングの習得をガイドします。最初のプログラムの記述、パッケージ管理、データ型、制御フロー、そしてスライス、マップ、チャネル、無名関数といった Go 固有の機能など、重要な概念を学び、実世界のプログラミングタスクに取り組むための強固な基盤を構築します。
 
 ![Golang](https://img.shields.io/badge/Golang-whitesmoke?style=for-the-badge&logo=golang)
 
