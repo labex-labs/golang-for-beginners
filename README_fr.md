@@ -1,14 +1,14 @@
-# Démarrage rapide avec Golang
+# Golang pour Débutants
 
 ## Langues
 
 🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![Démarrage rapide avec Golang](https://cover-creator.labex.io/quick-start-with-go.png?lang=fr)](https://labex.io/fr/courses/quick-start-with-go)
+[![Golang pour Débutants](https://cover-creator.labex.io/golang-for-beginners.png?lang=fr)](https://labex.io/fr/courses/golang-for-beginners)
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/fr/courses/quick-start-with-go)
+[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/fr/courses/golang-for-beginners)
 
-Ce cours vous guide dans la maîtrise de la programmation Go grâce à des laboratoires pratiques et des défis. Vous apprendrez les concepts clés tels que l'écriture de votre premier programme, la gestion des packages, l'utilisation des types de données, du flux de contrôle et des fonctionnalités spécifiques à Go comme les slices, les maps, les channels et les fonctions anonymes, en établissant ainsi une solide base pour aborder les tâches de programmation du monde réel.
+Ce cours vous guide pour maîtriser la programmation Go grâce à des laboratoires pratiques et des défis. Vous apprendrez les concepts clés tels que l'écriture de votre premier programme, la gestion des packages, l'utilisation des types de données, le flux de contrôle, et les fonctionnalités spécifiques à Go comme les slices, les maps, les channels et les fonctions anonymes, construisant ainsi une base solide pour aborder des tâches de programmation réelles.
 
 ![Golang](https://img.shields.io/badge/Golang-whitesmoke?style=for-the-badge&logo=golang)
 
