@@ -1,14 +1,14 @@
-# Golang 快速入门
+# Golang 入门
 
 ## 支持语言
 
 🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![Golang 快速入门](https://cover-creator.labex.io/quick-start-with-go.png?lang=zh)](https://labex.io/zh/courses/quick-start-with-go)
+[![Golang 入门](https://cover-creator.labex.io/golang-for-beginners.png?lang=zh)](https://labex.io/zh/courses/golang-for-beginners)
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/zh/courses/quick-start-with-go)
+[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/zh/courses/golang-for-beginners)
 
-本课程通过实践实验室和挑战，指导你掌握 Go 编程。你将学习关键概念，如编写第一个程序、管理包、使用数据类型、控制流以及 Go 特有的功能，如切片、映射、通道和匿名函数，为应对实际编程任务打下坚实基础。
+本课程将通过实践操作和挑战，指导您掌握 Go 编程。您将学习关键概念，例如编写您的第一个程序、管理包、使用数据类型、控制流，以及 Go 特有的功能，如切片（slices）、映射（maps）、通道（channels）和匿名函数，从而打下坚实的基础，以应对实际的编程任务。
 
 ![Golang](https://img.shields.io/badge/Golang-whitesmoke?style=for-the-badge&logo=golang)
 
