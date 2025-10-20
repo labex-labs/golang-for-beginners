@@ -53,7 +53,7 @@
 |       34 | 🎯  Go 맵으로 학생 성적 관리                                     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/go-manage-student-grades-with-go-maps-436735'>도전 시작</a>       |
 |       35 | 📖  Go 딕셔너리 정렬                                             | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/go-sorting-go-dictionaries-149095'>실습 시작</a>                  |
 |       36 | 🎯  동적으로 학생 성적 정렬하기                                  | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/go-sort-student-grades-dynamically-437203'>도전 시작</a>          |
-|       37 | 📖  Golang 채널 기본 사항                                        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/go-channel-primitives-in-golang-149096'>실습 시작</a>             |
+|       37 | 📖  Golang 의 채널 기본 요소                                     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/go-channel-primitives-in-golang-149096'>실습 시작</a>             |
 |       38 | 🎯  간단한 채널 데이터 파이프라인 구축                           | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/go-build-a-simple-channel-data-pipeline-437199'>도전 시작</a>     |
 |       39 | 📖  Golang 구조체 (Structures) 완전 정복                         | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/go-structures-in-golang-149097'>실습 시작</a>                     |
 |       40 | 🎯  Go 에서 학생 구조체 설계                                     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/go-design-student-struct-in-go-437202'>도전 시작</a>              |
@@ -62,19 +62,9 @@
 |       43 | 📖  Golang 익명 함수 사용법                                      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/go-anonymous-functions-in-golang-149099'>실습 시작</a>            |
 |       44 | 🎯  유연한 수학 변환 설계                                        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/go-design-flexible-math-transformations-437201'>도전 시작</a>     |
 
-## 환경
+## LabEx 소개
 
-LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입니다. 실험실, AI 지원 및 가상 머신을 결합하여 비디오 없는 실용적인 학습 경험을 제공합니다.
-
-![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
-
-- 비디오 없는 독점적인 실습 실험실로 엄격한 "실습을 통한 학습" 접근 방식.
-- 브라우저 내 대화형 온라인 환경에서 자동화된 단계별 확인.
-- 스킬 트리 기반 시스템으로 구조화된 콘텐츠 구성.
-- 30 개의 스킬 트리와 6,000 개 이상의 실험실을 포함하는 성장하는 학습 리소스.
-- 최신 AI 모델을 기반으로 구축된 학습 도우미 Labby 가 제공하는 대화형 학습 경험.
-
-자세히 알아보기 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입니다. 실험실, AI 지원 및 가상 머신을 결합하여 비디오 없는 실용적인 학습 경험을 제공합니다. 비디오 없는 독점적인 실습 실험실로 엄격한 '실습을 통한 학습' 접근 방식, 브라우저 내 대화형 온라인 환경에서 자동화된 단계별 확인, 스킬 트리 기반 시스템으로 구조화된 콘텐츠 구성, 30 개의 스킬 트리와 6,000 개 이상의 실험실을 포함하는 성장하는 학습 리소스로, LabEx 는 종합적인 실습 교육을 제공합니다. 플랫폼에는 최신 AI 모델을 기반으로 구축된 학습 도우미 Labby 가 포함되어 대화형 학습 경험을 제공합니다.
 
 ## 더 보기
 
