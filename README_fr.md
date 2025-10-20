@@ -53,7 +53,7 @@ Ce cours vous guide pour maîtriser la programmation Go grâce à des laboratoir
 |      34 | 🎯  Gérer les notes des étudiants avec les maps (table...   | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/go-manage-student-grades-with-go-maps-436735'>Commencer le Défi</a>      |
 |      35 | 📖  Tri des dictionnaires (maps) en Go                      | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/go-sorting-go-dictionaries-149095'>Commencer le Lab</a>                  |
 |      36 | 🎯  Trier dynamiquement les notes des étudiants             | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/go-sort-student-grades-dynamically-437203'>Commencer le Défi</a>         |
-|      37 | 📖  Primitives de canal en Golang                           | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/go-channel-primitives-in-golang-149096'>Commencer le Lab</a>             |
+|      37 | 📖  Primitives de Canal en Golang                           | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/go-channel-primitives-in-golang-149096'>Commencer le Lab</a>             |
 |      38 | 🎯  Construire un simple pipeline de données avec des ...   | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/go-build-a-simple-channel-data-pipeline-437199'>Commencer le Défi</a>    |
 |      39 | 📖  Les structures en Golang                                | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/go-structures-in-golang-149097'>Commencer le Lab</a>                     |
 |      40 | 🎯  Concevoir une structure Student en Go                   | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/go-design-student-struct-in-go-437202'>Commencer le Défi</a>             |
@@ -62,19 +62,9 @@ Ce cours vous guide pour maîtriser la programmation Go grâce à des laboratoir
 |      43 | 📖  Fonctions anonymes en Golang                            | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/go-anonymous-functions-in-golang-149099'>Commencer le Lab</a>            |
 |      44 | 🎯  Concevoir des transformations mathématiques flexib...   | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/go-design-flexible-math-transformations-437201'>Commencer le Défi</a>    |
 
-## Environnement
+## À propos de LabEx
 
-LabEx est une plateforme d'apprentissage interactive et pratique dédiée au codage et à la technologie. Elle combine des laboratoires, une assistance IA et des machines virtuelles pour offrir une expérience d'apprentissage pratique sans vidéo.
-
-![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
-
-- Une approche stricte "Apprendre en Faisant" avec des laboratoires pratiques exclusifs et sans vidéos.
-- Des environnements en ligne interactifs dans le navigateur, avec des vérifications automatisées étape par étape.
-- Une organisation structurée du contenu avec le système basé sur l'Arbre de Compétences.
-- Une ressource d'apprentissage croissante de 30 Arbres de Compétences et plus de 6 000 Laboratoires.
-- L'assistant d'apprentissage Labby, construit sur les derniers modèles d'IA, offrant une expérience d'apprentissage conversationnelle.
-
-En savoir plus sur [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+LabEx est une plateforme d'apprentissage interactive et pratique dédiée au codage et à la technologie. Elle combine des laboratoires, une assistance IA et des machines virtuelles pour offrir une expérience d'apprentissage pratique sans vidéo. Avec une approche stricte 'Apprendre en Faisant', des environnements en ligne interactifs dans le navigateur avec des vérifications automatisées étape par étape, une organisation structurée du contenu avec le système basé sur l'Arbre de Compétences, et une ressource d'apprentissage croissante de 30 Arbres de Compétences et plus de 6 000 Laboratoires, LabEx offre une éducation pratique complète. La plateforme comprend l'assistant d'apprentissage Labby, construit sur les derniers modèles d'IA, offrant une expérience d'apprentissage conversationnelle.
 
 ## Plus
 
