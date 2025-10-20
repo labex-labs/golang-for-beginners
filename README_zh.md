@@ -53,7 +53,7 @@
 |     34 | 🎯  使用 Go Map 管理学生成绩         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/go-manage-student-grades-with-go-maps-436735'>开始挑战</a>       |
 |     35 | 📖  Go 字典排序                      | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/go-sorting-go-dictionaries-149095'>开始实验</a>                  |
 |     36 | 🎯  动态排序学生成绩                 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/go-sort-student-grades-dynamically-437203'>开始挑战</a>          |
-|     37 | 📖  Golang 中的通道原语              | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/go-channel-primitives-in-golang-149096'>开始实验</a>             |
+|     37 | 📖  Golang 通道基础                  | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/go-channel-primitives-in-golang-149096'>开始实验</a>             |
 |     38 | 🎯  构建一个简单的通道数据管道       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/go-build-a-simple-channel-data-pipeline-437199'>开始挑战</a>     |
 |     39 | 📖  Go 语言中的结构体                | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/go-structures-in-golang-149097'>开始实验</a>                     |
 |     40 | 🎯  在 Go 中设计学生结构体           | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/go-design-student-struct-in-go-437202'>开始挑战</a>              |
@@ -62,19 +62,9 @@
 |     43 | 📖  Go 语言中的匿名函数              | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/go-anonymous-functions-in-golang-149099'>开始实验</a>            |
 |     44 | 🎯  设计灵活的数学转换               | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/go-design-flexible-math-transformations-437201'>开始挑战</a>     |
 
-## 学习环境
+## 关于 LabEx
 
-LabEx 是一个专注于编程和技术的交互式动手学习平台。它结合了实验室、AI 辅助和虚拟机，提供无视频的实践学习体验。
-
-![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
-
-- 严格的"边学边做"方法，提供独家动手实验，无视频。
-- 浏览器内的交互式在线环境，具有自动化的逐步检查。
-- 基于技能树的结构化内容组织系统。
-- 不断增长的学习资源，包含 30 个技能树和超过 6,000 个实验。
-- 基于最新 AI 模型构建的学习助手 Labby，提供对话式学习体验。
-
-了解更多 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+LabEx 是一个专注于编程和技术的交互式动手学习平台。它结合了实验室、AI 辅助和虚拟机，提供无视频的实践学习体验。采用严格的'边学边做'方法，浏览器内的交互式在线环境具有自动化的逐步检查，基于技能树的结构化内容组织系统，以及不断增长的学习资源（包含 30 个技能树和超过 6,000 个实验），LabEx 提供全面的实践教育。该平台包含基于最新 AI 模型构建的学习助手 Labby，提供对话式学习体验。
 
 ## 更多
 
