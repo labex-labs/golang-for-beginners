@@ -53,7 +53,7 @@ Dieser Kurs führt Sie durch die Beherrschung der Go-Programmierung mit praktisc
 |      34 | 🎯  Verwaltung von Schülernoten mit Go-Maps                 | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/go-manage-student-grades-with-go-maps-436735'>Challenge Starten</a>     |
 |      35 | 📖  Sortieren von Go-Wörterbüchern                          | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/go-sorting-go-dictionaries-149095'>Labor Starten</a>                    |
 |      36 | 🎯  Dynamische Sortierung von Schülernoten                  | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/go-sort-student-grades-dynamically-437203'>Challenge Starten</a>        |
-|      37 | 📖  Kanalprimitiven in Golang                               | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/go-channel-primitives-in-golang-149096'>Labor Starten</a>               |
+|      37 | 📖  Channel-Grundlagen in Golang                            | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/go-channel-primitives-in-golang-149096'>Labor Starten</a>               |
 |      38 | 🎯  Bauen Sie eine einfache Kanal-Datenpipeline (Chann...   | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/go-build-a-simple-channel-data-pipeline-437199'>Challenge Starten</a>   |
 |      39 | 📖  Strukturen in Golang                                    | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/go-structures-in-golang-149097'>Labor Starten</a>                       |
 |      40 | 🎯  Entwurf einer Studenten-Struktur in Go                  | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/go-design-student-struct-in-go-437202'>Challenge Starten</a>            |
@@ -62,19 +62,9 @@ Dieser Kurs führt Sie durch die Beherrschung der Go-Programmierung mit praktisc
 |      43 | 📖  Anonyme Funktionen in Golang                            | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/go-anonymous-functions-in-golang-149099'>Labor Starten</a>              |
 |      44 | 🎯  Gestaltung flexibler mathematischer Transformation...   | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/go-design-flexible-math-transformations-437201'>Challenge Starten</a>   |
 
-## Umgebung
+## Über LabEx
 
-LabEx ist eine interaktive, praktische Lernplattform für Programmierung und Technologie. Sie kombiniert Labore, KI-Unterstützung und virtuelle Maschinen für eine videofreie, praktische Lernerfahrung.
-
-![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
-
-- Ein strikter "Learning by Doing"-Ansatz mit exklusiven praktischen Laboren ohne Videos.
-- Interaktive Online-Umgebungen im Browser mit automatisierten Schritt-für-Schritt-Überprüfungen.
-- Eine strukturierte Inhaltsorganisation mit dem Skill-Tree-basierten System.
-- Eine wachsende Lernressource von 30 Skill Trees und über 6.000 Laboren.
-- Der Lernassistent Labby, aufgebaut auf den neuesten KI-Modellen, bietet eine konversationelle Lernerfahrung.
-
-Erfahren Sie mehr über [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+LabEx ist eine interaktive, praktische Lernplattform für Programmierung und Technologie. Sie kombiniert Labore, KI-Unterstützung und virtuelle Maschinen für eine videofreie, praktische Lernerfahrung. Mit einem strikten 'Learning by Doing'-Ansatz, interaktiven Online-Umgebungen im Browser mit automatisierten Schritt-für-Schritt-Überprüfungen, strukturierter Inhaltsorganisation mit dem Skill-Tree-basierten System, und einer wachsenden Lernressource von 30 Skill Trees und über 6.000 Laboren, bietet LabEx umfassende praktische Bildung. Die Plattform umfasst den Lernassistenten Labby, aufgebaut auf den neuesten KI-Modellen, der eine konversationelle Lernerfahrung bietet.
 
 ## Mehr
 
