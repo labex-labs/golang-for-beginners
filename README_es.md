@@ -53,7 +53,7 @@ Este curso te guía a través del dominio de la programación en Go con laborato
 |       34 | 🎯  Gestionar las calificaciones de los estudiantes co... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/go-manage-student-grades-with-go-maps-436735'>Iniciar Desafío</a>           |
 |       35 | 📖  Ordenar Diccionarios en Go                            | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/go-sorting-go-dictionaries-149095'>Iniciar Laboratorio</a>                  |
 |       36 | 🎯  Ordenar calificaciones de estudiantes de forma din... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/go-sort-student-grades-dynamically-437203'>Iniciar Desafío</a>              |
-|       37 | 📖  Conceptos Básicos de Canales en Golang                | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/go-channel-primitives-in-golang-149096'>Iniciar Laboratorio</a>             |
+|       37 | 📖  Primitivas de Canal en Golang                         | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/go-channel-primitives-in-golang-149096'>Iniciar Laboratorio</a>             |
 |       38 | 🎯  Construir una simple tubería de datos con canales     | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/go-build-a-simple-channel-data-pipeline-437199'>Iniciar Desafío</a>         |
 |       39 | 📖  Estructuras en Golang                                 | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/go-structures-in-golang-149097'>Iniciar Laboratorio</a>                     |
 |       40 | 🎯  Diseño de la estructura Student en Go                 | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/go-design-student-struct-in-go-437202'>Iniciar Desafío</a>                  |
@@ -62,19 +62,9 @@ Este curso te guía a través del dominio de la programación en Go con laborato
 |       43 | 📖  Funciones Anónimas en Golang                          | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/go-anonymous-functions-in-golang-149099'>Iniciar Laboratorio</a>            |
 |       44 | 🎯  Diseño de transformaciones matemáticas flexibles      | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/go-design-flexible-math-transformations-437201'>Iniciar Desafío</a>         |
 
-## Entorno
+## Acerca de LabEx
 
-LabEx es una plataforma de aprendizaje interactiva y práctica dedicada a la programación y la tecnología. Combina laboratorios, asistencia de IA y máquinas virtuales para proporcionar una experiencia de aprendizaje práctica sin videos.
-
-![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
-
-- Un enfoque estricto de "Aprender Haciendo" con laboratorios prácticos exclusivos y sin videos.
-- Entornos en línea interactivos dentro del navegador, con verificaciones paso a paso automatizadas.
-- Una organización de contenido estructurada con el sistema basado en Árbol de Habilidades.
-- Un recurso de aprendizaje en crecimiento de 30 Árboles de Habilidades y más de 6,000 Laboratorios.
-- El asistente de aprendizaje Labby, construido sobre los últimos modelos de IA, que proporciona una experiencia de aprendizaje conversacional.
-
-Aprende más sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+LabEx es una plataforma de aprendizaje interactiva y práctica dedicada a la programación y la tecnología. Combina laboratorios, asistencia de IA y máquinas virtuales para proporcionar una experiencia de aprendizaje práctica sin videos. Con un enfoque estricto de 'Aprender Haciendo', entornos en línea interactivos dentro del navegador con verificaciones paso a paso automatizadas, organización de contenido estructurada con el sistema basado en Árbol de Habilidades, y un recurso de aprendizaje en crecimiento de 30 Árboles de Habilidades y más de 6,000 Laboratorios, LabEx ofrece educación práctica integral. La plataforma incluye al asistente de aprendizaje Labby, construido sobre los últimos modelos de IA, que proporciona una experiencia de aprendizaje conversacional.
 
 ## Más
 
