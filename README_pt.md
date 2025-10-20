@@ -53,7 +53,7 @@ Este curso guia você através do domínio da programação Go com laboratórios
 |       34 | 🎯  Gerenciar Notas de Alunos com Mapas em Go         | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/go-manage-student-grades-with-go-maps-436735'>Iniciar Desafio</a>     |
 |       35 | 📖  Ordenando Dicionários Go                          | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/go-sorting-go-dictionaries-149095'>Iniciar Lab</a>                    |
 |       36 | 🎯  Ordenar Notas de Alunos Dinamicamente             | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/go-sort-student-grades-dynamically-437203'>Iniciar Desafio</a>        |
-|       37 | 📖  Primitivas de Canais em Golang                    | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/go-channel-primitives-in-golang-149096'>Iniciar Lab</a>               |
+|       37 | 📖  Primitivas de Canal em Golang                     | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/go-channel-primitives-in-golang-149096'>Iniciar Lab</a>               |
 |       38 | 🎯  Construir um Pipeline de Dados Simples com Canais | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/go-build-a-simple-channel-data-pipeline-437199'>Iniciar Desafio</a>   |
 |       39 | 📖  Estruturas em Golang                              | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/go-structures-in-golang-149097'>Iniciar Lab</a>                       |
 |       40 | 🎯  Design de Struct de Estudante em Go               | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/go-design-student-struct-in-go-437202'>Iniciar Desafio</a>            |
@@ -62,19 +62,9 @@ Este curso guia você através do domínio da programação Go com laboratórios
 |       43 | 📖  Funções Anônimas em Golang                        | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/go-anonymous-functions-in-golang-149099'>Iniciar Lab</a>              |
 |       44 | 🎯  Design de Transformações Matemáticas Flexíveis    | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/go-design-flexible-math-transformations-437201'>Iniciar Desafio</a>   |
 
-## Ambiente
+## Sobre LabEx
 
-LabEx é uma plataforma de aprendizagem interativa e prática dedicada à programação e tecnologia. Combina laboratórios, assistência de IA e máquinas virtuais para fornecer uma experiência de aprendizagem prática sem vídeos.
-
-![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
-
-- Uma abordagem rigorosa de "Aprender Fazendo" com laboratórios práticos exclusivos e sem vídeos.
-- Ambientes online interativos no navegador, com verificações automatizadas passo a passo.
-- Uma organização de conteúdo estruturada com o sistema baseado em Árvore de Habilidades.
-- Um recurso de aprendizagem crescente de 30 Árvores de Habilidades e mais de 6.000 Laboratórios.
-- O assistente de aprendizagem Labby, construído sobre os últimos modelos de IA, fornecendo uma experiência de aprendizagem conversacional.
-
-Saiba mais sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+LabEx é uma plataforma de aprendizagem interativa e prática dedicada à programação e tecnologia. Combina laboratórios, assistência de IA e máquinas virtuais para fornecer uma experiência de aprendizagem prática sem vídeos. Com uma abordagem rigorosa de 'Aprender Fazendo', ambientes online interativos no navegador com verificações automatizadas passo a passo, organização de conteúdo estruturada com o sistema baseado em Árvore de Habilidades, e um recurso de aprendizagem crescente de 30 Árvores de Habilidades e mais de 6.000 Laboratórios, LabEx oferece educação prática integral. A plataforma inclui o assistente de aprendizagem Labby, construído sobre os últimos modelos de IA, fornecendo uma experiência de aprendizagem conversacional.
 
 ## Mais
 
