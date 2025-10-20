@@ -53,7 +53,7 @@
 |             34 | 🎯  Go のマップを使った学生の成績管理                 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/go-manage-student-grades-with-go-maps-436735'>チャレンジを開始</a>     |
 |             35 | 📖  Go 言語の辞書のソート                             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/go-sorting-go-dictionaries-149095'>ラボを開始</a>                      |
 |             36 | 🎯  学生の成績を動的にソートする                      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/go-sort-student-grades-dynamically-437203'>チャレンジを開始</a>        |
-|             37 | 📖  Go 言語におけるチャネルの基本要素                 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/go-channel-primitives-in-golang-149096'>ラボを開始</a>                 |
+|             37 | 📖  Golang におけるチャネルの基本操作                 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/go-channel-primitives-in-golang-149096'>ラボを開始</a>                 |
 |             38 | 🎯  シンプルなチャネルデータパイプラインの構築        | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/go-build-a-simple-channel-data-pipeline-437199'>チャレンジを開始</a>   |
 |             39 | 📖  Go 言語における構造体                             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/go-structures-in-golang-149097'>ラボを開始</a>                         |
 |             40 | 🎯  Go で学生構造体を設計する                         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/go-design-student-struct-in-go-437202'>チャレンジを開始</a>            |
@@ -62,19 +62,9 @@
 |             43 | 📖  Go 言語における匿名関数                           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/go-anonymous-functions-in-golang-149099'>ラボを開始</a>                |
 |             44 | 🎯  柔軟な数学的変換の設計                            | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/go-design-flexible-math-transformations-437201'>チャレンジを開始</a>   |
 
-## 環境
+## LabEx について
 
-LabEx は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。
-
-![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
-
-- 動画なしの独自の実践ラボによる厳格な「実践による学習」アプローチ。
-- ブラウザ内のインタラクティブなオンライン環境で、自動化されたステップバイステップのチェック機能。
-- スキルツリーベースのシステムによる構造化されたコンテンツ組織。
-- 30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソース。
-- 最新の AI モデルを基盤とした学習アシスタント Labby による対話型学習体験。
-
-詳細について [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+LabEx は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。動画なしの独自の実践ラボによる厳格な「実践による学習」アプローチ、ブラウザ内のインタラクティブなオンライン環境で自動化されたステップバイステップのチェック機能、スキルツリーベースのシステムによる構造化されたコンテンツ組織、30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソースにより、LabEx は包括的な実践教育を提供します。プラットフォームには、最新の AI モデルを基盤とした学習アシスタント Labby が含まれており、対話型学習体験を提供します。
 
 ## その他
 
