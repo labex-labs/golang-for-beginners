@@ -1,74 +1,67 @@
 # 初心者向け Golang 入門
 
-## 言語
+**言語:** [English](README.md) · [简体中文](README_zh.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [日本語](README_ja.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md)
 
-🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
-
-[![初心者向け Golang 入門](https://cover-creator.labex.io/golang-for-beginners.png?lang=ja)](https://labex.io/ja/courses/golang-for-beginners)
-
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/ja/courses/golang-for-beginners)
+<p align="center">
+  <a href="https://labex.io/ja/courses/golang-for-beginners">
+    <img src="https://course-cover.labex.io/golang-for-beginners.png?lang=ja" alt="初心者向け Golang 入門">
+  </a>
+</p>
 
 本コースでは、実践的なラボと課題を通じて Go プログラミングの習得をガイドします。最初のプログラムの記述、パッケージ管理、データ型、制御フロー、そしてスライス、マップ、チャネル、無名関数といった Go 固有の機能など、重要な概念を学び、実世界のプログラミングタスクに取り組むための強固な基盤を構築します。
 
-![Golang](https://img.shields.io/badge/Golang-whitesmoke?style=for-the-badge&logo=golang)
-
+[LabEx でコースを開始](https://labex.io/ja/courses/golang-for-beginners)
 
 ## 演習
 
-|   インデックス | 名前                                                  | 難易度   | 練習                                                                                                                                                 |
-|----------------|-------------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------|
-|             01 | 🧩 🆓 Go 言語プログラミング入門ガイド                 | 中級     | <a target='_blank' href='https://labex.io/ja/labs/go-beginner-s-guide-to-go-programming-149062?course=golang-for-beginners'>ラボを開始</a>           |
-|             02 | 🎯 🆓 個別化された Go のあいさつを作成する            | 初級     | <a target='_blank' href='https://labex.io/ja/labs/go-craft-a-personalized-go-greeting-435633?course=golang-for-beginners'>チャレンジを開始</a>       |
-|             03 | 🧩  GOPATH とモジュール                               | 中級     | <a target='_blank' href='https://labex.io/ja/labs/go-gopath-and-module-149063?course=golang-for-beginners'>ラボを開始</a>                            |
-|             04 | 🎯 🆓 モジュール化された Go プロジェクトの構築        | 初級     | <a target='_blank' href='https://labex.io/ja/labs/go-build-a-modular-go-project-435640?course=golang-for-beginners'>チャレンジを開始</a>             |
-|             05 | 🧩 🆓 Go パッケージの作成とインポート                 | 初級     | <a target='_blank' href='https://labex.io/ja/labs/go-creating-and-importing-go-packages-149064?course=golang-for-beginners'>ラボを開始</a>           |
-|             06 | 🎯 🆓 数学ユーティリティパッケージの構築              | 初級     | <a target='_blank' href='https://labex.io/ja/labs/go-build-a-math-utility-package-435676?course=golang-for-beginners'>チャレンジを開始</a>           |
-|             07 | 🧩 🆓 Go 言語の変数入門                               | 初級     | <a target='_blank' href='https://labex.io/ja/labs/go-introduction-to-go-variables-149065?course=golang-for-beginners'>ラボを開始</a>                 |
-|             08 | 🎯 🆓 書籍在庫変数の作成                              | 初級     | <a target='_blank' href='https://labex.io/ja/labs/go-craft-book-inventory-variables-435684?course=golang-for-beginners'>チャレンジを開始</a>         |
-|             09 | 🧩 🆓 Golang における演算子を用たデータ処理           | 初級     | <a target='_blank' href='https://labex.io/ja/labs/go-data-processing-with-operators-in-golang-149066?course=golang-for-beginners'>ラボを開始</a>     |
-|             10 | 🎯 🆓 商品の割引価格を計算する                        | 初級     | <a target='_blank' href='https://labex.io/ja/labs/calculate-product-discount-price-435694?course=golang-for-beginners'>チャレンジを開始</a>          |
-|             11 | 🧩 🆓 Golang における数値型 (Numerical Types)         | 初級     | <a target='_blank' href='https://labex.io/ja/labs/go-numerical-types-in-golang-149067?course=golang-for-beginners'>ラボを開始</a>                    |
-|             12 | 🎯 🆓 数値型の変換と計算                              | 初級     | <a target='_blank' href='https://labex.io/ja/labs/convert-and-calculate-numeric-types-435824?course=golang-for-beginners'>チャレンジを開始</a>       |
-|             13 | 🧩  Go 言語における文字型                             | 初級     | <a target='_blank' href='https://labex.io/ja/labs/go-character-types-in-golang-149068?course=golang-for-beginners'>ラボを開始</a>                    |
-|             14 | 🎯  Unicode 絵文字のデコード                          | 初級     | <a target='_blank' href='https://labex.io/ja/labs/go-decode-unicode-emojis-435852?course=golang-for-beginners'>チャレンジを開始</a>                  |
-|             15 | 🧩  Go 言語の文字列の基本                             | 初級     | <a target='_blank' href='https://labex.io/ja/labs/go-go-string-fundamentals-149069?course=golang-for-beginners'>ラボを開始</a>                       |
-|             16 | 🎯  ユーザー登録文字列の処理                          | 初級     | <a target='_blank' href='https://labex.io/ja/labs/go-process-user-registration-strings-436083?course=golang-for-beginners'>チャレンジを開始</a>      |
-|             17 | 🧩  Go 言語の定数の基本                               | 初級     | <a target='_blank' href='https://labex.io/ja/labs/go-go-constants-fundamentals-149070?course=golang-for-beginners'>ラボを開始</a>                    |
-|             18 | 🎯  サーバーサイズ定数の定義                          | 初級     | <a target='_blank' href='https://labex.io/ja/labs/go-define-server-size-constants-436400?course=golang-for-beginners'>チャレンジを開始</a>           |
-|             19 | 🧩  Go 言語における if 分岐文                         | 初級     | <a target='_blank' href='https://labex.io/ja/labs/go-if-branch-statement-in-golang-149071?course=golang-for-beginners'>ラボを開始</a>                |
-|             20 | 🎯  条件分岐ロジックを使ったタスクの分類              | 初級     | <a target='_blank' href='https://labex.io/ja/labs/go-sort-tasks-with-conditional-logic-436418?course=golang-for-beginners'>チャレンジを開始</a>      |
-|             21 | 🧩  Go 言語における switch-case 分岐文                | 初級     | <a target='_blank' href='https://labex.io/ja/labs/go-switch-case-branch-statements-in-golang-149072?course=golang-for-beginners'>ラボを開始</a>      |
-|             22 | 🎯  天気アドバイスのスイッチ文を実装する              | 初級     | <a target='_blank' href='https://labex.io/ja/labs/go-implement-weather-advice-switch-436449?course=golang-for-beginners'>チャレンジを開始</a>        |
-|             23 | 🧩  Go 言語における for ループ                        | 初級     | <a target='_blank' href='https://labex.io/ja/labs/go-for-loops-in-golang-149073?course=golang-for-beginners'>ラボを開始</a>                          |
-|             24 | 🎯  Go のループを使った文字列の逆順化                 | 初級     | <a target='_blank' href='https://labex.io/ja/labs/go-reverse-string-with-go-loop-436520?course=golang-for-beginners'>チャレンジを開始</a>            |
-|             25 | 🧩  goto 文の使い方                                   | 初級     | <a target='_blank' href='https://labex.io/ja/labs/go-goto-statement-usage-149074?course=golang-for-beginners'>ラボを開始</a>                         |
-|             26 | 🎯  Goto を使ってネストされたループの複雑さを解消する | 初級     | <a target='_blank' href='https://labex.io/ja/labs/go-solve-nested-loop-complexity-with-goto-436529?course=golang-for-beginners'>チャレンジを開始</a> |
-|             27 | 🧩  Go 言語における配列操作                           | 初級     | <a target='_blank' href='https://labex.io/ja/labs/go-array-operations-in-golang-149075?course=golang-for-beginners'>ラボを開始</a>                   |
-|             28 | 🎯  従業員名の配列を初期化する                        | 初級     | <a target='_blank' href='https://labex.io/ja/labs/go-initialize-employee-names-array-436643?course=golang-for-beginners'>チャレンジを開始</a>        |
-|             29 | 🧩  Go 言語における多次元配列                         | 初級     | <a target='_blank' href='https://labex.io/ja/labs/go-multidimensional-arrays-in-golang-149076?course=golang-for-beginners'>ラボを開始</a>            |
-|             30 | 🎯  学生成績追跡システムの設計                        | 初級     | <a target='_blank' href='https://labex.io/ja/labs/go-design-a-student-grade-tracker-436649?course=golang-for-beginners'>チャレンジを開始</a>         |
-|             31 | 🧩  Golang のスライスデータ構造                       | 初級     | <a target='_blank' href='https://labex.io/ja/labs/go-golang-slice-data-structures-149077?course=golang-for-beginners'>ラボを開始</a>                 |
-|             32 | 🎯  スライスログフィルターチャレンジ                  | 初級     | <a target='_blank' href='https://labex.io/ja/labs/go-slice-log-filter-challenge-436686?course=golang-for-beginners'>チャレンジを開始</a>             |
-|             33 | 🧩  Go 言語の辞書の基本                               | 初級     | <a target='_blank' href='https://labex.io/ja/labs/go-go-dictionary-fundamentals-149080?course=golang-for-beginners'>ラボを開始</a>                   |
-|             34 | 🎯  Go のマップを使った学生の成績管理                 | 初級     | <a target='_blank' href='https://labex.io/ja/labs/go-manage-student-grades-with-go-maps-436735?course=golang-for-beginners'>チャレンジを開始</a>     |
-|             35 | 🧩  Go 言語の辞書のソート                             | 初級     | <a target='_blank' href='https://labex.io/ja/labs/go-sorting-go-dictionaries-149095?course=golang-for-beginners'>ラボを開始</a>                      |
-|             36 | 🎯  学生の成績を動的にソートする                      | 初級     | <a target='_blank' href='https://labex.io/ja/labs/go-sort-student-grades-dynamically-437203?course=golang-for-beginners'>チャレンジを開始</a>        |
-|             37 | 🧩  Golang におけるチャネルの基本操作                 | 初級     | <a target='_blank' href='https://labex.io/ja/labs/go-channel-primitives-in-golang-149096?course=golang-for-beginners'>ラボを開始</a>                 |
-|             38 | 🎯  シンプルなチャネルデータパイプラインの構築        | 初級     | <a target='_blank' href='https://labex.io/ja/labs/go-build-a-simple-channel-data-pipeline-437199?course=golang-for-beginners'>チャレンジを開始</a>   |
-|             39 | 🧩  Go 言語における構造体                             | 初級     | <a target='_blank' href='https://labex.io/ja/labs/go-structures-in-golang-149097?course=golang-for-beginners'>ラボを開始</a>                         |
-|             40 | 🎯  Go で学生構造体を設計する                         | 初級     | <a target='_blank' href='https://labex.io/ja/labs/go-design-student-struct-in-go-437202?course=golang-for-beginners'>チャレンジを開始</a>            |
-|             41 | 🧩  Go 言語における関数                               | 初級     | <a target='_blank' href='https://labex.io/ja/labs/go-functions-in-golang-149098?course=golang-for-beginners'>ラボを開始</a>                          |
-|             42 | 🎯  柔軟な数学関数の設計                              | 初級     | <a target='_blank' href='https://labex.io/ja/labs/go-design-flexible-math-function-437200?course=golang-for-beginners'>チャレンジを開始</a>          |
-|             43 | 🧩  Go 言語における匿名関数                           | 初級     | <a target='_blank' href='https://labex.io/ja/labs/go-anonymous-functions-in-golang-149099?course=golang-for-beginners'>ラボを開始</a>                |
-|             44 | 🎯  柔軟な数学的変換の設計                            | 初級     | <a target='_blank' href='https://labex.io/ja/labs/go-design-flexible-math-transformations-437201?course=golang-for-beginners'>チャレンジを開始</a>   |
+|   インデックス | 名前                               | 難易度   | 練習                                                                                                                                           |
+|----------|----------------------------------|-------|----------------------------------------------------------------------------------------------------------------------------------------------|
+|       01 | Go 言語プログラミング入門ガイド                | 初級    | <a target='_blank' href='https://labex.io/ja/labs/first-program-149062?course=golang-for-beginners'>ラボを開始</a>                                |
+|       02 | パーソナライズされた Go 言語の挨拶文の作成          | 中級    | <a target='_blank' href='https://labex.io/ja/labs/go-craft-a-personalized-go-greeting-435633?course=golang-for-beginners'>チャレンジを開始</a>       |
+|       03 | GOPATH と Go モジュール                | 初級    | <a target='_blank' href='https://labex.io/ja/labs/gopath-and-module-149063?course=golang-for-beginners'>ラボを開始</a>                            |
+|       04 | モジュール化された Go プロジェクトの構築           | 中級    | <a target='_blank' href='https://labex.io/ja/labs/go-build-a-modular-go-project-435640?course=golang-for-beginners'>チャレンジを開始</a>             |
+|       05 | Go パッケージの作成とインポート                | 初級    | <a target='_blank' href='https://labex.io/ja/labs/package-management-149064?course=golang-for-beginners'>ラボを開始</a>                           |
+|       06 | 数学ユーティリティパッケージの構築                | 中級    | <a target='_blank' href='https://labex.io/ja/labs/go-build-a-math-utility-package-435676?course=golang-for-beginners'>チャレンジを開始</a>           |
+|       07 | Go 言語の変数入門                       | 初級    | <a target='_blank' href='https://labex.io/ja/labs/variables-149065?course=golang-for-beginners'>ラボを開始</a>                                    |
+|       08 | 書籍在庫管理変数の作成                      | 初級    | <a target='_blank' href='https://labex.io/ja/labs/go-craft-book-inventory-variables-435684?course=golang-for-beginners'>チャレンジを開始</a>         |
+|       09 | Golang における演算子を用いたデータ処理          | 初級    | <a target='_blank' href='https://labex.io/ja/labs/operators-149066?course=golang-for-beginners'>ラボを開始</a>                                    |
+|       10 | 商品の割引価格の計算                       | 初級    | <a target='_blank' href='https://labex.io/ja/labs/calculate-product-discount-price-435694?course=golang-for-beginners'>チャレンジを開始</a>          |
+|       11 | Golang における数値型 (Numerical Types) | 初級    | <a target='_blank' href='https://labex.io/ja/labs/numerical-types-149067?course=golang-for-beginners'>ラボを開始</a>                              |
+|       12 | 数値型の変換と計算                        | 初級    | <a target='_blank' href='https://labex.io/ja/labs/convert-and-calculate-numeric-types-435824?course=golang-for-beginners'>チャレンジを開始</a>       |
+|       13 | Go 言語における文字型                     | 初級    | <a target='_blank' href='https://labex.io/ja/labs/character-types-149068?course=golang-for-beginners'>ラボを開始</a>                              |
+|       14 | Unicode 絵文字のデコード                 | 初級    | <a target='_blank' href='https://labex.io/ja/labs/go-decode-unicode-emojis-435852?course=golang-for-beginners'>チャレンジを開始</a>                  |
+|       15 | Go 言語の文字列の基本                     | 初級    | <a target='_blank' href='https://labex.io/ja/labs/string-types-149069?course=golang-for-beginners'>ラボを開始</a>                                 |
+|       16 | ユーザー登録文字列の処理                     | 中級    | <a target='_blank' href='https://labex.io/ja/labs/go-process-user-registration-strings-436083?course=golang-for-beginners'>チャレンジを開始</a>      |
+|       17 | Go 言語の定数の基礎                      | 初級    | <a target='_blank' href='https://labex.io/ja/labs/constants-149070?course=golang-for-beginners'>ラボを開始</a>                                    |
+|       18 | サーバーサイズの定数定義                     | 中級    | <a target='_blank' href='https://labex.io/ja/labs/go-define-server-size-constants-436400?course=golang-for-beginners'>チャレンジを開始</a>           |
+|       19 | Go 言語における if 分岐文                 | 初級    | <a target='_blank' href='https://labex.io/ja/labs/if-branch-statement-149071?course=golang-for-beginners'>ラボを開始</a>                          |
+|       20 | 条件分岐によるタスクの分類                    | 初級    | <a target='_blank' href='https://labex.io/ja/labs/go-sort-tasks-with-conditional-logic-436418?course=golang-for-beginners'>チャレンジを開始</a>      |
+|       21 | Golang の Switch-Case 分岐文         | 初級    | <a target='_blank' href='https://labex.io/ja/labs/switch-case-branch-statements-149072?course=golang-for-beginners'>ラボを開始</a>                |
+|       22 | 天気アドバイス Switch 文の実装              | 中級    | <a target='_blank' href='https://labex.io/ja/labs/go-implement-weather-advice-switch-436449?course=golang-for-beginners'>チャレンジを開始</a>        |
+|       23 | Golang の for ループ                 | 初級    | <a target='_blank' href='https://labex.io/ja/labs/for-loop-149073?course=golang-for-beginners'>ラボを開始</a>                                     |
+|       24 | Go のループによる文字列の反転                 | 初級    | <a target='_blank' href='https://labex.io/ja/labs/go-reverse-string-with-go-loop-436520?course=golang-for-beginners'>チャレンジを開始</a>            |
+|       25 | goto 文の使い方                       | 初級    | <a target='_blank' href='https://labex.io/ja/labs/goto-statement-149074?course=golang-for-beginners'>ラボを開始</a>                               |
+|       26 | Goto 文を用いた入れ子構造のループの簡素化          | 初級    | <a target='_blank' href='https://labex.io/ja/labs/go-solve-nested-loop-complexity-with-goto-436529?course=golang-for-beginners'>チャレンジを開始</a> |
+|       27 | Go 言語における配列操作                    | 初級    | <a target='_blank' href='https://labex.io/ja/labs/golang-array-149075?course=golang-for-beginners'>ラボを開始</a>                                 |
+|       28 | 従業員名配列の初期化                       | 中級    | <a target='_blank' href='https://labex.io/ja/labs/go-initialize-employee-names-array-436643?course=golang-for-beginners'>チャレンジを開始</a>        |
+|       29 | Go 言語における多次元配列                   | 初級    | <a target='_blank' href='https://labex.io/ja/labs/multidimensional-arrays-149076?course=golang-for-beginners'>ラボを開始</a>                      |
+|       30 | 学生成績管理システムの設計                    | 初級    | <a target='_blank' href='https://labex.io/ja/labs/go-design-a-student-grade-tracker-436649?course=golang-for-beginners'>チャレンジを開始</a>         |
+|       31 | Golang のスライスデータ構造                | 初級    | <a target='_blank' href='https://labex.io/ja/labs/slices-149077?course=golang-for-beginners'>ラボを開始</a>                                       |
+|       32 | スライスによるログフィルタリングのチャレンジ           | 中級    | <a target='_blank' href='https://labex.io/ja/labs/go-slice-log-filter-challenge-436686?course=golang-for-beginners'>チャレンジを開始</a>             |
+|       33 | Go 言語の辞書の基本                      | 初級    | <a target='_blank' href='https://labex.io/ja/labs/dictionary-149080?course=golang-for-beginners'>ラボを開始</a>                                   |
+|       34 | Go のマップを使用した学生の成績管理              | 中級    | <a target='_blank' href='https://labex.io/ja/labs/go-manage-student-grades-with-go-maps-436735?course=golang-for-beginners'>チャレンジを開始</a>     |
+|       35 | Go のマップ（辞書）のソート                  | 初級    | <a target='_blank' href='https://labex.io/ja/labs/dictionary-sorting-149095?course=golang-for-beginners'>ラボを開始</a>                           |
+|       36 | 学生の成績を動的にソートする                   | 中級    | <a target='_blank' href='https://labex.io/ja/labs/go-sort-student-grades-dynamically-437203?course=golang-for-beginners'>チャレンジを開始</a>        |
+|       37 | Golang におけるチャネルの基本操作             | 初級    | <a target='_blank' href='https://labex.io/ja/labs/channel-149096?course=golang-for-beginners'>ラボを開始</a>                                      |
+|       38 | シンプルなチャネル・データパイプラインの構築           | 上級    | <a target='_blank' href='https://labex.io/ja/labs/go-build-a-simple-channel-data-pipeline-437199?course=golang-for-beginners'>チャレンジを開始</a>   |
+|       39 | Go 言語における構造体                     | 初級    | <a target='_blank' href='https://labex.io/ja/labs/structure-149097?course=golang-for-beginners'>ラボを開始</a>                                    |
+|       40 | Go 言語による学生構造体の設計                 | 初級    | <a target='_blank' href='https://labex.io/ja/labs/go-design-student-struct-in-go-437202?course=golang-for-beginners'>チャレンジを開始</a>            |
+|       41 | Go 言語における関数                      | 初級    | <a target='_blank' href='https://labex.io/ja/labs/functions-149098?course=golang-for-beginners'>ラボを開始</a>                                    |
+|       42 | 柔軟な計算関数の設計                       | 初級    | <a target='_blank' href='https://labex.io/ja/labs/go-design-flexible-math-function-437200?course=golang-for-beginners'>チャレンジを開始</a>          |
+|       43 | Go 言語における匿名関数                    | 初級    | <a target='_blank' href='https://labex.io/ja/labs/anonymous-functions-149099?course=golang-for-beginners'>ラボを開始</a>                          |
+|       44 | 柔軟な数値変換システムの設計                   | 初級    | <a target='_blank' href='https://labex.io/ja/labs/go-design-flexible-math-transformations-437201?course=golang-for-beginners'>チャレンジを開始</a>   |
 
-## LabEx について
+## About LabEx
 
-[LabEx](https://labex.io) は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。動画なしの独自の実践ラボによる厳格な「実践による学習」アプローチ、ブラウザ内のインタラクティブなオンライン環境で自動化されたステップバイステップのチェック機能、スキルツリーベースのシステムによる構造化されたコンテンツ組織、30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソースにより、[LabEx](https://labex.io) は包括的な実践教育を提供します。プラットフォームには、最新の AI モデルを基盤とした学習アシスタント Labby が含まれており、対話型学習体験を提供します。
-
-## その他
-
-- 🔗 [Golang プログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Golang プログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Golang 無料チュートリアル](https://github.com/labex-labs/go-free-tutorials)
+<div align="left"><p><a href="https://labex.io"><strong>LabEx</strong></a> is a <strong>hands-on learning platform for beginners</strong>.</p><p>Explore <a href="https://labex.io/learn/linux"><strong>Linux</strong></a>, <a href="https://labex.io/learn/devops"><strong>DevOps</strong></a>, <a href="https://labex.io/learn/cybersecurity"><strong>Cybersecurity</strong></a>, and <strong>more</strong> — all directly in your browser.</p><p>Learn step by step through <strong>interactive labs</strong>, <strong>guided exercises</strong>, and <strong>real-world projects</strong>. 🌱<br />No setup, no stress — just practice and grow your skills by doing.</p><br /><p><a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="54" /></a>&nbsp;<a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" alt="Download on the Mac App Store" height="52" /></a></p><br /><p>📖 Need help? Visit our <a href="https://support.labex.io/">Help Center</a> or email info@labex.io</p></div>
 
